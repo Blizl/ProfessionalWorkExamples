@@ -16,7 +16,7 @@
 ![Alt text](eyewear.gif)
 
 ## Snapchat SDK (Puma app implemented the SDK I wrote in order to have AR functionality) 
-![Alt text](puma.gif)
+![Alt text](puma2.gif)
 
 
 
